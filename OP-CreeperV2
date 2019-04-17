@@ -1,1 +1,1 @@
-/give @p minecraft:spawn_egg 1 50 {display:{Name:"Igor"},CustomName:"Igor",CustomNameVisible:1,ignited:1,ExplosionRadius:50}
+/give @p minecraft:spawn_egg 1 50 {display:{Name:"Igor"},CustomName:"Igor",CustomNameVisible:1,ignited:1,ExplosionRadius:500}
